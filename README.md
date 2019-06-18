@@ -37,3 +37,9 @@
 ## Podesavanje Constrainta iz XMLa
 
 ![XML2](https://github.com/Vukovi/Profil-Developera/blob/master/09%20Podesavanje%20Constraint-a%20iz%20XML-a%20.png?raw=true)
+
+## Dodavanje Vertikalnog Guideline-a da bi se constraint-i odradili prema njemu
+
+![Vertikalni Guideline](https://github.com/Vukovi/Profil-Developera/blob/master/10%20Vertikalni%20Guideline.png?raw=true)
+
+
