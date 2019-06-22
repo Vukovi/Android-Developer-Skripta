@@ -19,7 +19,22 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show()
         }
+
+        // ovde pravim zarubljeni view
+        val bitmap = BitmapFactory.decodeResource(resources, R.drawable.sparrowlogoempty)
+        val rounded = RoundedBitmapDrawableFactory.create(resources,bitmap)
+        rounded.cornerRadius = 15f
+        logoImg.setImageDrawable(rounded)
     }
+
+    //    @Override
+//    protected void onSizeChanged(int width, int height, int oldWidth, int oldHeight) {
+//        super.onSizeChanged(width, height, oldWidth, oldHeight);
+//
+//        float cornerRadius = <whatever_you_want>;
+//        this.path = new Path();
+//        this.path.addRoundRect(new RectF(0, 0, width, height), cornerRadius, cornerRadius, Path.Direction.CW);
+//    }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.
