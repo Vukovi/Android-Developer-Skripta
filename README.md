@@ -50,7 +50,7 @@
 
 ![Tablet B](https://github.com/Vukovi/Profil-Developera/blob/master/12%20Novi%20Layout%20za%20Tablete%20-%20B.png?raw=true)
 
-## Dodavanjen novog Layout-a za Tablete - C
+## Dodavanjen novog Layout-a za Tablete - C (korak 13)
 
 ![Tablet C](https://github.com/Vukovi/Profil-Developera/blob/master/13%20Novi%20Layout%20za%20Tablete%20-%20C.png?raw=true)
 
