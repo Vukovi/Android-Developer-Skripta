@@ -42,4 +42,23 @@
 
 ![Vertikalni Guideline](https://github.com/Vukovi/Profil-Developera/blob/master/10%20Vertikalni%20Guideline.png?raw=true)
 
+## Dodavanjen novog Layout-a za Tablete - A
+
+![Tablet A](https://github.com/Vukovi/Profil-Developera/blob/master/11%20Novi%20Layout%20za%20Tablete%20-%20A.png?raw=true)
+
+## Dodavanjen novog Layout-a za Tablete - B
+
+![Tablet B](https://github.com/Vukovi/Profil-Developera/blob/master/12%20Novi%20Layout%20za%20Tablete%20-%20B.png?raw=true)
+
+## Dodavanjen novog Layout-a za Tablete - C
+
+![Tablet C](https://github.com/Vukovi/Profil-Developera/blob/master/13%20Novi%20Layout%20za%20Tablete%20-%20C.png?raw=true)
+
+## Dodavanjen novog Layout-a za Tablete varijanta Landscape orijentacija - A
+
+![Landscape A](https://github.com/Vukovi/Profil-Developera/blob/master/14%20Novi%20Layout%20za%20Tablete%20-%20D%20Landscape%20posebno.png?raw=true)
+
+## Dodavanjen novog Layout-a za Tablete varijanta Landscape orijentacija - B
+
+![Landscape A](https://github.com/Vukovi/Profil-Developera/blob/master/15%20Novi%20Layout%20za%20Tablete%20-%20E%20Landscape%20posebno.png?raw=true)
 
